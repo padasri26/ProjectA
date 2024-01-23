@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 This file is comming from master branch
+This file is coming from featurebranch1
+>>>>>>> featurebranch1
